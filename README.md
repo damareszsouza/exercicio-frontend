@@ -91,6 +91,21 @@ questão 4
 deixe fruta = 'maçã';
   
   Para mudar o valor da variável `fruta` para `ameixa`, você pode simplesmente atribuir o novo valor à variável:
+  
+exemplo em javascript de link de salto
+  
+  
+  // HTML
+<a href="#myAnchor">Ir para o meu link de salto</a>
+<div id="myAnchor">Este é o meu link de salto</div>
+
+// JavaScript
+document.querySelector('a[href="#myAnchor"]').addEventListener('click', function (e) {
+  e.preventDefault();
+  document.querySelector(this.getAttribute('href')).scrollIntoView({
+    behavior: 'smooth'
+  });
+});
 
 ```javascript
 fruta = 'ameixa';
