@@ -85,3 +85,31 @@ Não, `address` não faz parte do elemento `input`². O elemento HTML `<input>` 
 questão 4
 
 
+
+  no código a seguir, a variável fruta recebeu um valor de maçã. como você mudaria o valor para ameixa?
+
+deixe fruta = 'maçã';
+  
+  Para mudar o valor da variável `fruta` para `ameixa`, você pode simplesmente atribuir o novo valor à variável:
+
+```javascript
+fruta = 'ameixa';
+```
+
+  
+  Questão 5 
+  
+  
+  o que é um link de salto
+  
+  um link colocado carlu <body> par apermitir que o usuario pule para o conteudo principal 
+  
+ 
+  
+  Um link de salto (ou link de âncora) é um link que leva o usuário para uma parte específica da página (ou para uma página externa) instantaneamente. Os destinos de âncora são normalmente especificados usando o elemento `a` (nomeando-o com o atributo `name`), ou por qualquer outro elemento (nomeando com o atributo `id`) ¹².
+
+
+(1) Como Criar Links de Âncora no WordPress (3 Métodos Fáceis) - Kinsta. https://bing.com/search?q=o+que+%c3%a9+um+link+de+salto%3f.
+(2) Como Criar Links de Âncora no WordPress (3 Métodos Fáceis) - Kinsta. https://kinsta.com/pt/blog/links-de-ancora/.
+(3) Como criar links de salto de âncora no WordPress. https://bforbloggers.com/pt/how-to-create-anchor-jump-links-in-wordpress/.
+(4) Criando um link de âncora – Central de ajuda do Squarespace. https://support.squarespace.com/hc/pt/articles/207135178-Criando-um-link-de-%C3%A2ncora.
