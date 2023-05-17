@@ -29,9 +29,15 @@ This will output:
 ["bitcoin", "ethereum", "litecoin"]
 ```
 
-I hope this helps! Let me know if you have any other questions.🙂
+Questão 2
 
-Origem: conversa com o Bing, 17/05/2023
+o que significa o termo 'polyfill' quando usado no desenvo de software ?
+
+
+Polyfill é um módulo ou recurso de código que atende à necessidade de um desenvolvedor. O termo foi cunhado para descrever algo que preencheria a lacuna quando uma certa plataforma não possui a funcionalidade que os desenvolvedores esperavam12.
+
+Na prática, os polyfills permitem que os desenvolvedores Web usem uma API independentemente de ser suportada por um navegador ou não, e geralmente com sobrecarga mínima
+
 (1) 5 Ways To Add Elements To Javascript Array (Simple Examples) - Code Boxx. https://code-boxx.com/add-elements-javascript-array/.
 (2) 6 Ways to Insert Elements to an Array in JavaScript. https://howtocreateapps.com/ways-to-insert-elements-to-an-array-in-javascript/.
 (3) JavaScript Array push() Method - W3Schools. https://www.w3schools.com/jsref/jsref_push.asp.
