@@ -165,3 +165,38 @@ de
 O que é o método getElementById() em JavaScript?
 Como eu posso selecionar um elemento HTML usando JavaScript?
 Quais são algumas outras propriedades comuns de elementos HTML que os desenvolvedores podem alterar com JavaScript?
+  Para alterar o conteúdo de um parágrafo com um ID de 'exemplo' em JavaScript, você pode usar o método `document.getElementById()` para selecionar o elemento e o método `innerHTML` para alterar seu conteúdo ¹⁴.
+
+Aqui está um exemplo de como fazer isso:
+
+```javascript
+document.getElementById('exemplo').innerHTML = 'Novo conteúdo do parágrafo';
+```
+
+Este exemplo seleciona o elemento com o ID 'exemplo' e altera seu conteúdo para 'Novo conteúdo do parágrafo' ¹.
+
+(1) JavaScript Alterar Texto | Delft Stack. https://www.delftstack.com/pt/howto/javascript/javascript-change-text/.
+(2) DOM Element.innerHTML: como alterar um conteúdo de uma tag HTML - DevMedia. https://www.devmedia.com.br/dom-element-innerhtml-como-alterar-um-conteudo-de-uma-tag-html/43500.
+(3) Qual é a sintaxe correta em JavaScript para alterar o conteúdo do .... https://brainly.com.br/tarefa/24569171.
+(4) Sintaxe e tipos - JavaScript | MDN - MDN Web Docs. https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Grammar_and_types.
+
+  questão 7 
+  
+  qual propriedade css e valor removeriam corretamente os marcadores de um item de lista? 
+  
+  Para remover os marcadores de um item de lista em CSS, você pode usar a propriedade `list-style-type` com o valor `none` ¹²³.
+
+Aqui está um exemplo de como fazer isso:
+
+```css
+li {
+  list-style-type: none;
+}
+```
+
+Este exemplo remove os marcadores de todos os itens de lista em uma página ¹.
+
+(1) Como fazer uma lista de marcadores HTML personalizados (UL) 📃 Usando .... https://br.atsit.in/archives/11409.
+(2) Manipulando Listas - Aprendendo desenvolvimento web | MDN. https://developer.mozilla.org/pt-BR/docs/Learn/CSS/Styling_text/Styling_lists.
+(3) As 3 propriedade CSS para estilização de marcadores de listas e seus .... https://maujor.com/tutorial/propriedades-css-para-estilizacao-de-listas.php.
+(4) Especificidade - CSS | MDN - MDN Web Docs. https://developer.mozilla.org/pt-BR/docs/Web/CSS/Specificity.
