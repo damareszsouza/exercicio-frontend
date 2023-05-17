@@ -128,3 +128,40 @@ fruta = 'ameixa';
 (2) Como Criar Links de Âncora no WordPress (3 Métodos Fáceis) - Kinsta. https://kinsta.com/pt/blog/links-de-ancora/.
 (3) Como criar links de salto de âncora no WordPress. https://bforbloggers.com/pt/how-to-create-anchor-jump-links-in-wordpress/.
 (4) Criando um link de âncora – Central de ajuda do Squarespace. https://support.squarespace.com/hc/pt/articles/207135178-Criando-um-link-de-%C3%A2ncora.
+
+  
+  questão 6 
+  
+  qual é a sintaxe javascript correta para alterar o conteúdo de um parágrafo com um id de 'exemplo'?
+Mensagem enviada. qual é a sintaxe javascript correta para alterar o conteúdo de um parágrafo com um id de 'exemplo'?
+Procurando por “qual é a sintaxe javascript correta para alterar o conteúdo de um parágrafo com um id de 'exemplo'?”
+
+Procurando por “qual é a sintaxe javascript correta para alterar o conteúdo de um parágrafo com um id de 'exemplo'?”
+
+Gerando respostas para você…
+
+Gerando respostas para você…
+
+Para alterar o conteúdo de um parágrafo com um ID de ‘exemplo’ em JavaScript, você pode usar o método document.getElementById() para selecionar o elemento e o método innerHTML para alterar seu conteúdo 12.
+
+Aqui está um exemplo de como fazer isso:
+
+document.getElementById('exemplo').innerHTML = 'Novo conteúdo do parágrafo';
+
+Este exemplo seleciona o elemento com o ID ‘exemplo’ e altera seu conteúdo para ‘Novo conteúdo do parágrafo’ 1.
+
+
+Mensagem recebida. Para alterar o conteúdo de um parágrafo com um ID de 'exemplo' em JavaScript, você pode usar o método `document.getElementById()` para selecionar o elemento e o método `innerHTML` para alterar seu conteúdo . Aqui está um exemplo de como fazer isso: ```javascript document.getElementById('exemplo').innerHTML = 'Novo conteúdo do parágrafo'; ``` Este exemplo seleciona o elemento com 
+Saiba mais:
+1. delftstack.com
+2. devmedia.com.br
+3. brainly.com.br
+4. developer.mozilla.org
++1 mais
+14
+de
+20
+
+O que é o método getElementById() em JavaScript?
+Como eu posso selecionar um elemento HTML usando JavaScript?
+Quais são algumas outras propriedades comuns de elementos HTML que os desenvolvedores podem alterar com JavaScript?
