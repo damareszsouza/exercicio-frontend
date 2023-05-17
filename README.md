@@ -200,3 +200,22 @@ Este exemplo remove os marcadores de todos os itens de lista em uma página ¹.
 (2) Manipulando Listas - Aprendendo desenvolvimento web | MDN. https://developer.mozilla.org/pt-BR/docs/Learn/CSS/Styling_text/Styling_lists.
 (3) As 3 propriedade CSS para estilização de marcadores de listas e seus .... https://maujor.com/tutorial/propriedades-css-para-estilizacao-de-listas.php.
 (4) Especificidade - CSS | MDN - MDN Web Docs. https://developer.mozilla.org/pt-BR/docs/Web/CSS/Specificity.
+
+  
+  Questão 9 
+  
+  qual escolha não é um valor válido para a propriedade contain? layout, content, strict, all
+  
+  resposta - "content"
+  
+  A propriedade `contain` é uma propriedade CSS válida que permite que um autor indique que um elemento e seus conteúdos são, na medida do possível, independentes do resto da árvore do documento ¹. As opções válidas para o valor da propriedade `contain` são ¹:
+
+- `layout`: indica que o elemento é independente do layout de seus pais e filhos.
+- `paint`: indica que o elemento é independente da pintura de seus pais e filhos.
+- `size`: indica que o elemento é independente do tamanho de seus pais e filhos.
+- `strict`: indica que o elemento é independente do layout, pintura e tamanho de seus pais e filhos.
+
+
+(1) contain - CSS | MDN - MDN Web Docs. https://developer.mozilla.org/pt-BR/docs/Web/CSS/contain.
+(2) Conceitos básicos de flexbox - CSS | MDN - MDN Web Docs. https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox.
+(3) Utilizando propriedades CSS personalizadas (variáveis) - MDN. https://developer.mozilla.org/pt-BR/docs/Web/CSS/Using_CSS_custom_properties.
