@@ -219,3 +219,33 @@ Este exemplo remove os marcadores de todos os itens de lista em uma página ¹.
 (1) contain - CSS | MDN - MDN Web Docs. https://developer.mozilla.org/pt-BR/docs/Web/CSS/contain.
 (2) Conceitos básicos de flexbox - CSS | MDN - MDN Web Docs. https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox.
 (3) Utilizando propriedades CSS personalizadas (variáveis) - MDN. https://developer.mozilla.org/pt-BR/docs/Web/CSS/Using_CSS_custom_properties.
+
+  questão 10 
+  
+  qual é a definição correta do elemento html <canvas> ?
+  
+  O elemento HTML <canvas> é utilizado para desenhar gráficos utilizando scripts (geralmente JavaScript). Ele pode ser usado para fazer composições de fotos e também para animações. O bloco <canvas> pode conter conteúdos alternativos caso o navegador não suporte o elemento <canvas>¹².
+
+(1) canvas - HTML: Linguagem de Marcação de Hipertexto | MDN - MDN Web Docs. https://bing.com/search?q=defini%c3%a7%c3%a3o+do+elemento+html+canvas.
+(2) canvas - HTML: Linguagem de Marcação de Hipertexto | MDN - MDN Web Docs. https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/canvas.
+(3) Canvas (HTML5) – Wikipédia, a enciclopédia livre. https://pt.wikipedia.org/wiki/Canvas_%28HTML5%29.
+(4) Canvas tutorial - APIs da Web | MDN - MDN Web Docs. https://developer.mozilla.org/pt-BR/docs/Web/API/Canvas_API/Tutorial.
+
+  
+  Usando JavaScript, você pode desenhar no canvas. Por exemplo, o código abaixo desenha um retângulo vermelho na tela¹²:
+```javascript
+var exemplo = document.getElementById('exemplo');
+var contexto = exemplo.getContext('2d');
+contexto.fillStyle = 'red';
+contexto.fillRect(30, 30, 50, 50);
+```
+
+Origem: conversa com o Bing, 18/05/2023
+(1) Canvas (HTML5) – Wikipédia, a enciclopédia livre. https://bing.com/search?q=exemplo+em+javascript+canvas.
+(2) Canvas (HTML5) – Wikipédia, a enciclopédia livre. https://pt.wikipedia.org/wiki/Canvas_%28HTML5%29.
+(3) Canvas tutorial - APIs da Web | MDN - MDN Web Docs. https://developer.mozilla.org/pt-BR/docs/Web/API/Canvas_API/Tutorial.
+(4) Utilização básica do Canvas - APIs da Web | MDN - MDN Web Docs. https://developer.mozilla.org/pt-BR/docs/Web/API/Canvas_API/Tutorial/Basic_usage.
+(5) HTML5 Canvas com JavaScript - DevMedia. https://www.devmedia.com.br/html5-canvas-com-javascript/29866.
+  
+  questão 11
+  
