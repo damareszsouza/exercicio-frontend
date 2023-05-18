@@ -294,5 +294,10 @@ Origem: conversa com o Bing, 18/05/2023
 </body>
 </html>
 ```
+questão  13 
 
-Este código vincula a folha de estilo externa "style.css" ao cabeçalho do documento HTML usando o elemento <link> com o atributo rel="stylesheet" e o atributo href apontando para o arquivo CSS externo. Espero que isso ajude!
+  você usou display: nome em sua folha de estilo quais usuários poderão ver ou ouvir este conteúdo?
+
+ no users 
+  
+  O valor "nome" do atributo display não é válido. Os valores válidos para o atributo display são "block", "inline", "inline-block", "flex", "grid", "table" e outros. O valor padrão é "block". O atributo display controla como um elemento HTML é exibido na página da web. Todos os usuários que acessam a página da web podem ver ou ouvir o conteúdo, a menos que haja restrições de acesso específicas definidas pelo desenvolvedor da página da web. Espero que isso ajude!
