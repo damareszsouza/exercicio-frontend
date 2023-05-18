@@ -275,3 +275,24 @@ Origem: conversa com o Bing, 18/05/2023
 (3) Canvas tutorial - APIs da Web | MDN - MDN Web Docs. https://developer.mozilla.org/pt-BR/docs/Web/API/Canvas_API/Tutorial.
 (4) Utilização básica do Canvas - APIs da Web | MDN - MDN Web Docs. https://developer.mozilla.org/pt-BR/docs/Web/API/Canvas_API/Tutorial/Basic_usage.
 (5) HTML5 Canvas com JavaScript - DevMedia. https://www.devmedia.com.br/html5-canvas-com-javascript/29866.
+
+  
+  questão 12 
+  
+  qual é a maneira correta de vincular a uma folha de estilo externa do cabeçalho de um documento html?
+  
+  Para vincular uma folha de estilo externa ao cabeçalho de um documento HTML, você pode usar o elemento <link> com o atributo rel="stylesheet" e o atributo href apontando para o arquivo CSS externo. Aqui está um exemplo:
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  ...
+</body>
+</html>
+```
+
+Este código vincula a folha de estilo externa "style.css" ao cabeçalho do documento HTML usando o elemento <link> com o atributo rel="stylesheet" e o atributo href apontando para o arquivo CSS externo. Espero que isso ajude!
