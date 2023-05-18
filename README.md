@@ -249,3 +249,29 @@ Origem: conversa com o Bing, 18/05/2023
   
   questão 11
   
+  em uma página com muitas imagens, qual seria o efeito de adicionar loading= "lazy" à tag <img>?
+  
+  O atributo loading="lazy" em um elemento <img> pode ser usado para instruir o navegador a adiar o carregamento de imagens que estão fora da tela até que o usuário role para perto delas. Isso pode melhorar a velocidade de carregamento da página e reduzir o uso de dados e a contenção de rede durante a inicialização, adiando o carregamento de imagens para quando elas são realmente necessárias². No entanto, é importante não usar o lazy loading em imagens visíveis na tela durante a inicialização da página, pois isso pode afetar negativamente a experiência do usuário
+  
+(1) Lazy loading images - web.dev. https://web.dev/lazy-loading-images/.
+(2) O que é Lazy Load e sua importância para otimização e ... - Alright. https://alright.com.br/o-que-e-lazy-load/.
+(3) Lazy loading de imagens em navegadores - web.dev. https://web.dev/i18n/pt/browser-level-image-lazy-loading/.
+(4) HTML img loading Attribute - W3Schools. https://www.w3schools.com/tags/att_img_loading.asp.
+
+  Aqui está um exemplo de como desenhar um retângulo vermelho em um canvas usando JavaScript:
+
+```javascript
+var exemplo = document.getElementById('exemplo');
+var contexto = exemplo.getContext('2d');
+contexto.fillStyle = 'red';
+contexto.fillRect(30, 30, 50, 50);
+```
+
+Este código desenha um retângulo vermelho na tela¹. Espero que isso ajude!
+
+Origem: conversa com o Bing, 18/05/2023
+(1) Canvas (HTML5) – Wikipédia, a enciclopédia livre. https://bing.com/search?q=exemplo+em+javascript+canvas.
+(2) Canvas (HTML5) – Wikipédia, a enciclopédia livre. https://pt.wikipedia.org/wiki/Canvas_%28HTML5%29.
+(3) Canvas tutorial - APIs da Web | MDN - MDN Web Docs. https://developer.mozilla.org/pt-BR/docs/Web/API/Canvas_API/Tutorial.
+(4) Utilização básica do Canvas - APIs da Web | MDN - MDN Web Docs. https://developer.mozilla.org/pt-BR/docs/Web/API/Canvas_API/Tutorial/Basic_usage.
+(5) HTML5 Canvas com JavaScript - DevMedia. https://www.devmedia.com.br/html5-canvas-com-javascript/29866.
